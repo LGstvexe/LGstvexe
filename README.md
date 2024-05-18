@@ -24,7 +24,7 @@ Estou imerso em diversos estudos, com foco principal em Backend, possuindo conhe
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LGstvexe&theme=transparent&bg_color=000&border_color=00008B&show_icons=true&icon_color=000022B&title_color=000022B&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=00008B&title_color=000022B&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LGstvexe&layout=compact&bg_color=000&border_color=00008B&title_color=000022B&text_color=FFF)
 
 ## 🕒 Cursos em Andamento:
 
