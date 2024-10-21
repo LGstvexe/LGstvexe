@@ -26,12 +26,6 @@ Estou imerso em diversos estudos, com foco principal em Backend, possuindo conhe
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LGstvexe&layout=compact&bg_color=000&border_color=00008B&title_color=000022B&text_color=FFF)
 
-## 🕒 Cursos em Andamento:
-
-<img src=https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png width="150"> <img src="https://img.shields.io/badge/Santander Bootcamp 2024 - Backend com Java -FFF?style=for-the-badge&logo=&logoColor">
-
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png width="150"> <img src="https://img.shields.io/badge/Linux TIPS - Linux Essentials -FFF?style=for-the-badge&logo=&logoColor">
-
 ## 🎉 Minhas Contribuições:
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LGstvexe&repo=dio-lab-open-source&bg_color=000&border_color=00008B&show_icons=true&icon_color=000022B&title_color=000022B&text_color=FFF)](https://github.com/LGstvexe/dio-lab-open-source)
