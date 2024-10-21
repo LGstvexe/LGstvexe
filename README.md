@@ -2,11 +2,11 @@
 
 Opa! Sou o Luís Gustavo, um entusiasta da tecnologia desde pequeno e atualmente um estudante de Sistemas de Informação. Estou em uma jornada constante de aprendizado, sempre buscando ampliar meu conhecimento para me destacar na área.
 
-Estou imerso em diversos estudos, com foco principal em Backend, possuindo conhecimento em Java, mas também dedicando tempo para adquirir habilidades básicas em HTML, CSS e Javascript. Meu objetivo é solidificar as habilidades e tecnologias que estou aprendendo atualmente e transformá-las em conquistas concretas no futuro. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+Estou imerso em diversos estudos, com foco principal em Backend com grande interesse na área de dados, possuindo conhecimento em Java, mas também dedicando tempo para adquirir habilidades básicas em HTML, CSS e Javascript, além de estar formentando meu aprendizado em Python. Meu objetivo é solidificar as habilidades e tecnologias que estou aprendendo atualmente e transformá-las em conquistas concretas no futuro. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 
 ## 🌐 Conecte-se comigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/luis-gustavo-silva-santos-2b262b262/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/luis-gustavoss/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=)](https://github.com/LGstvexe)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=)](mailto:luis_gustavoss123@hotmail.com)
 
@@ -19,6 +19,7 @@ Estou imerso em diversos estudos, com foco principal em Backend, possuindo conhe
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postgree SQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📊 GitHub Stats:
 
