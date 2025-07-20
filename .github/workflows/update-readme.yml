@@ -12,14 +12,14 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       GITHUB_USERNAME: LGstvexe
+      PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
 
     steps:
     - name: Checar código
       uses: actions/checkout@v3
       with:
-        persist-credentials: true
+        persist-credentials: false  # desabilita o token automático do checkout para evitar conflito
 
     - name: Buscar últimos repositórios e atualizar README
       run: |
@@ -48,4 +48,5 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add README.md
         git diff --cached --quiet || git commit -m "Atualiza cards dos últimos repositórios"
+        git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${GITHUB_USERNAME}/LGstvexe.git
         git push origin main
