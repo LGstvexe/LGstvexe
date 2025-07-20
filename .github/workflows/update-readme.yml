@@ -34,7 +34,7 @@ jobs:
           }
           name=$(_jq '.name')
           url=$(_jq '.html_url')
-          cards+="[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=$GITHUB_USERNAME&repo=$name&style=for-the-badge)]($url)\n"
+          cards+="[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=$GITHUB_USERNAME&repo=$name&style=for-the-badge&theme=transparent&bg_color=000&border_color=00008B&show_icons=true&icon_color=000022B&title_color=000022B&text_color=FFF)]($url)\n"
         done
 
         awk -v cards="$cards" '
