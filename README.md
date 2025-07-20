@@ -30,8 +30,9 @@ Meu objetivo é solidificar as habilidades e conhecimentos que venho desenvolven
 ## 🎉 Meus projetos mais recentes:
 
 <!--START_REPOS-->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LGstvexe&repo=desafio-sistema-bancario&style=for-the-badge)](https://github.com/LGstvexe/desafio-sistema-bancario)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LGstvexe&repo=app_conversor_imagens&style=for-the-badge)](https://github.com/LGstvexe/app_conversor_imagens)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LGstvexe&repo=desafio-sistema-bancario&style=for-the-badge&theme=transparent&bg_color=000&border_color=00008B&show_icons=true&icon_color=000022B&title_color=000022B&text_color=FFF)](https://github.com/LGstvexe/desafio-sistema-bancario)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LGstvexe&repo=app_conversor_imagens&style=for-the-badge&theme=transparent&bg_color=000&border_color=00008B&show_icons=true&icon_color=000022B&title_color=000022B&text_color=FFF)](https://github.com/LGstvexe/app_conversor_imagens)
+
 
 
 
